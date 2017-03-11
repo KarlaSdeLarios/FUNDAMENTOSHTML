@@ -1,0 +1,3444 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!--// ref:null-->
+  <title>4shared.com - almacenamiento y uso compartido de archivos gratis</title>
+  <meta name="Description" content="Online file sharing and storage - 15 GB free web space. Folder sharing. File upload progressor. Multiple file transfer. Fast download.">
+  <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, share folder, file hosting">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+
+
+
+
+
+
+
+
+
+  <link rel="alternate" hreflang="en" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=en" />
+
+  <link rel="alternate" hreflang="pt-BR" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=pt-BR" />
+
+  <link rel="alternate" hreflang="pt" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=pt" />
+
+  <link rel="alternate" hreflang="es" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=es" />
+
+  <link rel="alternate" hreflang="ar" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ar" />
+
+  <link rel="alternate" hreflang="fr" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=fr" />
+
+  <link rel="alternate" hreflang="pl" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=pl" />
+
+  <link rel="alternate" hreflang="fa" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=fa" />
+
+  <link rel="alternate" hreflang="tr" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=tr" />
+
+  <link rel="alternate" hreflang="in" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=in" />
+
+  <link rel="alternate" hreflang="th" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=th" />
+
+  <link rel="alternate" hreflang="de" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=de" />
+
+  <link rel="alternate" hreflang="it" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=it" />
+
+  <link rel="alternate" hreflang="nl" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=nl" />
+
+  <link rel="alternate" hreflang="zh" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=zh" />
+
+  <link rel="alternate" hreflang="hu" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=hu" />
+
+  <link rel="alternate" hreflang="ja" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ja" />
+
+  <link rel="alternate" hreflang="cs" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=cs" />
+
+  <link rel="alternate" hreflang="el" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=el" />
+
+  <link rel="alternate" hreflang="sv" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=sv" />
+
+  <link rel="alternate" hreflang="iw" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=iw" />
+
+  <link rel="alternate" hreflang="ko" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ko" />
+
+  <link rel="alternate" hreflang="bg" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=bg" />
+
+  <link rel="alternate" hreflang="sq" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=sq" />
+
+  <link rel="alternate" hreflang="hr" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=hr" />
+
+  <link rel="alternate" hreflang="vi" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=vi" />
+
+  <link rel="alternate" hreflang="sr" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=sr" />
+
+  <link rel="alternate" hreflang="bn" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=bn" />
+
+  <link rel="alternate" hreflang="no" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=no" />
+
+  <link rel="alternate" hreflang="ms" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ms" />
+
+  <link rel="alternate" hreflang="hi" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=hi" />
+
+  <link rel="alternate" hreflang="ur" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ur" />
+
+  <link rel="alternate" hreflang="af" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=af" />
+
+  <link rel="alternate" hreflang="ru" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ru" />
+
+  <link rel="alternate" hreflang="uk" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=uk" />
+
+  <link rel="alternate" hreflang="es-AR" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=es-AR" />
+
+  <link rel="alternate" hreflang="ro" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ro" />
+
+  <link rel="alternate" hreflang="ku" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=ku" />
+
+  <link rel="alternate" hreflang="sk" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=sk" />
+
+  <link rel="alternate" hreflang="rom" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=rom" />
+
+  <link rel="alternate" hreflang="da" href="http://e.4shared.com/linkerror.jsp?ed=63617573653d33303844776e486c704e6f5369676e&locale=da" />
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
+  <script type="text/javascript">
+    $(function () {
+      $.ajaxPrefilter(function (options, originalOptions, jqXHR) {
+        if (!$.cookie) return
+        var cookie = $.cookie('Login')
+        if (cookie) jqXHR.setRequestHeader("x-security", cookie);
+      })
+    })
+  </script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  function Config() {
+    return this
+  }
+  document.domain='4shared.com';
+</script>
+
+
+
+<script type="text/javascript">
+  Config.mainSiteUrlPath = 'http://www.4shared.com/';
+  Config.mainSiteUrlHttpsPath  = 'https://www.4shared.com/';
+  Config.isRTLLanguage = false;
+  Config.currentLanguage = 'es';
+  Config.isReplaceSearchNameForSeo = false;
+  Config.revisionNum = 35791;
+  Config.syncDomain = 'https://www.4sync.com/';
+  Config.cdDomain = '//dc612.4shared.com/';
+  Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
+  Config.isMobile = false;
+  Config.isIpad = false;
+  Config.is4Sync = false;
+  Config.cookieDomain = (function(){
+    var domain = document.domain;
+    var splited = domain.split(".");
+    if(splited.length>2){
+      splited = splited.splice(splited.length-2, splited.length);
+    }
+    return "."+splited.join(".");
+  })();
+
+  $(function(){
+      //lets detect touch device
+      try{
+          document.createEvent("TouchEvent");
+        if (window.opera && !/Opera Mobi/.test(navigator.userAgent) && !/Opera Mini/.test(navigator.userAgent)) $("body").addClass("notTouch");
+      } catch(e){
+          $("body").addClass("notTouch");
+      }
+  });
+
+
+  
+  function selectLang(lang){
+    document.cookie = '4langcookie='+lang+'; path=/; domain=' + encodeURIComponent(Config.cookieDomain);
+    window.location.reload();
+  }
+</script>
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/favicon.js?ver=2905551109"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.form.js?ver=2429648863"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.placeholder.patch.js?ver=2488144095"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.checkbox.js?ver=1454674743"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.cookie.js?ver=3361025129"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.localStorage.js?ver=2999387803"></script>
+
+
+
+ <!--71248779-->
+    <!-- Google Website Optimizer Control Script -->
+    <script>
+    function utmx_section(){}function utmx(){}
+    (function(){var k='2797291832',d=document,l=d.location,c=d.cookie;function f(n){
+    if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.
+    length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+    d.write('<sc'+'ript src="'+
+    'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
+    +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
+    +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+    '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+    </script>
+    <!-- End of Google Website Optimizer Control Script -->
+    <!-- Google Website Optimizer Tracking Script -->
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['gwo._setAccount', 'UA-306602-3']);
+      _gaq.push(['gwo._trackPageview', '/2797291832/test']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <!-- End of Google Website Optimizer Tracking Script -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/header.js?ver=4162578461"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/account/AccountFacade.js?ver=1358266096"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/slimScroll.min.js?ver=1763673539"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+
+
+  
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/ui/elements.css?ver=684963654"/>
+
+
+  <!--[if lt IE 7]>
+  <script type="text/javascript">var IE7_PNG_SUFFIX=".png";</script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/IE7.js?ver=854262292"></script>
+
+
+  <![endif]-->
+
+  <!--[if IE 9]>
+  <style type="text/css">
+   a.button-orange, .submit-blue, a.submit-blue, a.submit-blue:link, a.submit-blue:visited, .submit-light, a.submit-lightm, .gradient_bg { filter:none !important; }
+  </style>
+  <![endif]-->
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/js/bundles/includeNewHeaderStylesAndScripts.css?ver=3675561928"/>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        AccountFacade.setSid('null');
+        setIntervalForUserChecking();
+    });
+    var currentUserId;
+    function checkUser(){
+        var newValueOfUserId = $.cookie("Login");
+        if (newValueOfUserId != currentUserId){
+            if (currentUserId != "\"\""){
+                alert('Se ha cambiado el usuario. As\u00ed que le reenviamos a la p\u00e1gina principal.  ');
+                document.location.href = "http://www.4shared.com/";
+            }
+        }
+    }
+
+    function setIntervalForUserChecking(){
+        currentUserId = $.cookie("Login");
+        //setInterval('checkUser()', 10000);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/confirmPopup.css?ver=2406893717"/>
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/popup_n.css?ver=3549931194"/>
+
+
+
+<div id="confirmPopup" style="display:none;">
+  <div class="confirmPopupBody alignLeft ffshadow">
+    <div class="jsConfirmMsg marginL25"></div>
+  </div>
+  <div class="grayPopupButton marginT15 round4 marginL10 ffshadow floatRight gaClick jsClose">Cancelar</div>
+  <div class="bluePopupButton marginT15 confirmPopupBlueButton round4 floatRight gaClick jsConfirmOk">Aceptar</div>
+</div>
+<script type="text/javascript">
+    function sendVerificationLetter(){
+        $.get('http://www.4shared.com/account/sendEmailVerification.jsp?callback=?&globSysLang=es', {ajax: 'true'} ,function(data){
+            var msg;
+            if (data.ok) {
+                msg = data.verificationMailSentMsg;
+            }else{
+                msg = data.errorMessage;
+            }
+            AccountFacade.alert({title:"Check your e-mail", content:msg});
+        }, "jsonp");
+    }
+
+
+    function sendVerificationLetterAndGoToVerificationPage(){
+        $.getJSON('/account/sendEmailVerification.jsp?globSysLang=es', {ajax: 'true'} ,function(data){
+            var msg;
+            if(data.ok && data.ok === true){
+                msg = data.verificationMailSentMsg;
+            }else{
+                msg = data.errorMessage;
+            }
+            alert(msg);
+            window.location.href = 'http://www.4shared.com/web/acc/verifyemail' ;
+        });
+    }
+
+</script>
+
+
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/pageDownload1/downloadWithoutCommon.css?ver=224971522"/>
+
+
+  <script type="text/javascript">if (self != top) {top.location = self.location; }</script>
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/themes/default.css?ver=225792818"/>
+
+
+  
+
+    <script type="text/javascript">
+    function reportAbuse() {
+      var windowname="abuse";
+      var url="/web/abuse?aLink=http://e.4shared.com/linkerror.jsp";
+      OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=550,height=650,left=50,top=50');
+      OpenWindow.focus();
+    }
+    function feedback() {
+      var windowname="Feedback";
+      var url="/feedback.jsp?aLink=http://e.4shared.com/linkerror.jsp";
+      OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=500,height=460,left=50,top=50');
+      OpenWindow.focus();
+    }
+
+    function clearOldValue() {
+      if (document.regform.indexemail.value == "tu correo electr\u00f3nico") document.regform.indexemail.value = "";
+    }
+  </script>
+  <style type="text/css">
+    .rc {width:372px}
+  </style>
+  <link rel="stylesheet" type="text/css" href="/css/lang/style-es.css?ver=35791" />
+</head>
+<body>
+<script type="text/javascript">
+  function premiumLogin(fpRedirParam) {
+    document.location.href = "/web/login?returnTo="+escape(fpRedirParam);
+  }
+  function premiumUpgrade() {
+    //document.location.href = "/pricing.jsp";
+    document.location.href = "/premiumDownload.jsp?ref=du"; //"https://www.plimus.com/jsp/buynow.jsp?contractId=1687122";
+  }
+  function buyTraffic() {
+    //document.location.href = "/buyTraffic.jsp";
+    document.location.href = "/account/myAccount.jsp?startPage=3"; //"https://www.plimus.com/jsp/buynow.jsp?contractId=1687122";
+  
+  }
+</script>
+
+<div id="fstickcontainer">
+    <div id="fstickcontent">
+
+        
+        <!-- BEGIN TAG - DO NOT MODIFY -->
+<script type="text/javascript">
+    <!--
+    epom_key = "bf844234fd3202a1fc31019c812fb29f";
+    epom_code_format = "ads-sync.js";
+    epom_ads_host = "//www.adshost1.com";
+    epom_click = "";
+    epom_custom_params = {};
+
+    document.write("<"+"script type='text\/javascript' src='"+(location.protocol == 'https:' ? 'https:' : 'http:') + "//www.adshost1.com\/js/show_ads.js'><\/script>");
+    //-->
+</script>
+<!-- END TAG -->
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/json2.js?ver=2156414635"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.caps.js?ver=1"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.openid.js?ver=196798327"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.cycle.all.min.js?ver=3581432058"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/purchaseStats.js?ver=824748598"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/login_fnc.js?ver=2599089830"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/upload.js?ver=575386402"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/webtoolkit.base64.js?ver=3383901933"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/ajaxSuggestions.js?ver=4277492602"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/ajaxHelper.js?ver=3308885292"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/dw_event.js?ver=1044802526"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/dw_viewport.js?ver=3541546364"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/dw_writedrag.js?ver=2669743209"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/dw_drag.js?ver=925597799"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/index.js?ver=3700674317"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/afs_request_done.js?ver=3429899744"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/play.js?ver=668954148"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/dphistfav.js?ver=4077852520"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/cookie.js?ver=891093458"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/swfobject.js?ver=3650717771"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/quickedit_fnc.js?ver=2821364179"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/adlogger_tracker.js?ver=631600940"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/utils.js?ver=429984241"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/Events.js?ver=1053394277"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/authScripts.js?ver=2659805025"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/smallPlugins.js?ver=1936223044"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.jsonWithError.js?ver=2940546744"></script>
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/auth-popup.css?ver=412445109"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/tips.js?ver=775574541"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/tipTip.css?ver=2581533619"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.tipTip.js?ver=799491696"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--[if IE 7]>
+       <style>
+          .p_window .cc{
+            margin: 0;
+          }
+       </style>
+    <![endif]-->
+
+    <!--[if lt IE 7]>
+        <script type="text/javascript">var IE7_PNG_SUFFIX=".png";</script>
+        <ft:js src="/js/IE7.js" />
+        <style>
+            .colFooter ul li.header{margin-left: 0;}
+        </style>
+    <![endif]-->
+	
+	<!--[if lte IE 7]>
+    <style type="text/css">
+        .downloadApp, .downloadApp span, .mobileBlock div {
+            display: inline;
+        }
+        #syncHeader{
+            display:inline;
+            zoom:1;
+        }
+    </style>
+    <![endif]-->
+	
+	<!--[if ie 9]>
+    <style type="text/css" media="screen">
+       .downloadApp {
+            filter: none;
+            background-image: url(http://static.4shared.com/gradient.svg?ver=568598074);
+            background-size: 200% 200%;
+            background-repeat: repeat-x;
+            background-position: 0 0;
+        }
+        .downloadApp:hover{
+            filter:none;
+            background-color:#12b0e3;
+        }
+    </style>
+    <![endif]-->
+
+  <!--[if lt ie 9]>
+    <style type="text/css">
+      #valid_new_email{
+        width: 255px !important;
+      }
+    </style>
+   <![endif]-->
+
+
+  <!--[if lte ie 9]>
+    <style type="text/css">
+      /*.p_window .cc {*/
+          /*padding: 0 0 10px;*/
+      /*}*/
+      .p_window .cc iframe{
+          margin:10px 20px 0;
+      }
+      .p_window.shPopup .hh{
+          width: auto !important;
+      }
+      .p_window .friend-share{
+          margin: 0 !important;
+      }
+    </style>
+    <![endif]-->
+
+<script type="text/javascript">
+
+  function iNHSelectLanguage() {
+    window.langPopup = AccountFacade.popup({
+      element: $("#langdiv"),
+      title: "Elegir el idioma"
+    });
+    return false
+  }
+
+  var newLang = 'www';
+
+  var mainSite = 'http://www.4shared.com/';
+
+  function feedback() {
+    var windowname="Feedback";
+    var url="/feedback.jsp";
+    OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=500,height=460,left=50,top=50');
+    OpenWindow.focus();
+  }
+
+  function reportAbuse2() {
+    try {
+      reportAbuse();
+    }
+    catch (e) {
+      var windowname="abuse";
+      var url="/web/abuse?abuseType=1&link=" + " ";
+      OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=550,height=650,left=50,top=50');
+      OpenWindow.focus();
+    }
+  }
+
+
+</script>
+
+<div id="langdiv" style="display: none;">
+  
+
+
+
+
+<div class="langdiv lucida clearFix">
+
+          <div class="column floatLeft paddingL30 marginL20" style="margin:0px; padding:0px;"><a href="javascript:void(selectLang('en'));" class="lang-en gaClick" data-element="h18-en">English</a><a href="javascript:void(selectLang('pt-BR'));" class="lang-pt-BR gaClick" data-element="h18-pt-BR">Português (Brasil)</a><a href="javascript:void(selectLang('es'));" class="lang-es gaClick" data-element="h18-es">Español</a><a href="javascript:void(selectLang('ar'));" class="lang-ar gaClick" data-element="h18-ar">العربية</a><a href="javascript:void(selectLang('fr'));" class="lang-fr gaClick" data-element="h18-fr">Français</a><a href="javascript:void(selectLang('pl'));" class="lang-pl gaClick" data-element="h18-pl">Polski</a></div><div class="column floatLeft paddingL30 marginL20" ><a href="javascript:void(selectLang('fa'));" class="lang-fa gaClick" data-element="h18-fa">پارسی</a><a href="javascript:void(selectLang('tr'));" class="lang-tr gaClick" data-element="h18-tr">Türkçe</a><a href="javascript:void(selectLang('in'));" class="lang-in gaClick" data-element="h18-in">Bahasa Indonesia</a><a href="javascript:void(selectLang('th'));" class="lang-th gaClick" data-element="h18-th">ไทย</a><a href="javascript:void(selectLang('de'));" class="lang-de gaClick" data-element="h18-de">Deutsch</a><a href="javascript:void(selectLang('it'));" class="lang-it gaClick" data-element="h18-it">Italiano</a></div><div class="column floatLeft paddingL30 marginL20" ><a href="javascript:void(selectLang('zh'));" class="lang-zh gaClick" data-element="h18-zh">中文</a><a href="javascript:void(selectLang('ja'));" class="lang-ja gaClick" data-element="h18-ja">日本語</a><a href="javascript:void(selectLang('ko'));" class="lang-ko gaClick" data-element="h18-ko">한국어</a><a href="javascript:void(selectLang('vi'));" class="lang-vi gaClick" data-element="h18-vi">Tiếng Việt</a><a href="javascript:void(selectLang('ms'));" class="lang-ms gaClick" data-element="h18-ms">Bahasa Melayu</a><a href="javascript:void(selectLang('ru'));" class="lang-ru gaClick" data-element="h18-ru">Русский</a></div>
+
+</div>
+
+</div>
+
+<div id="writeDragMain" style="display: none;">
+  <div id="wdMain" class="dragDiv">
+    <div class="dragDivHandle">
+      <table cellpadding="1" cellspacing="0" width="100%">
+        <tr>
+          <td>&nbsp;<span class="dragDivTitle"></span></td>
+          <td>
+            <a href="#" class="floatRight close">
+              <img style="vertical-align: middle;" class="xBox" src="http://static.4shared.com/images/icons/16x16/close.gif?ver=1559612610" width="16" height="16" alt="X" border="0" title="Cerrar cuadro">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <div class="dragDivContent">
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/AjaxSuggestion.js?ver=3635016842"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+  .verifyAlertO {
+      background: #fff2cc;
+      -moz-box-shadow: 0px 0px 5px #000000;
+      -webkit-box-shadow: 0px 0px 5px #000000;
+      box-shadow: 0px 0px 5px #000000;
+      position:relative;
+      z-index:997
+    }
+    .verifyAlert {
+      overflow:hidden;
+      padding:5px 10px 5px 55px;
+      background:url(http://static.4shared.com/images/confirm-letterbox.png?ver=3623346942) #fff2cc no-repeat 15px center;
+      color:#5c5c5c;
+      z-index:9999;
+      position:relative;
+      font-size: 12px
+    }
+    .pageAccount .verifyAlertO {position: absolute; width: 100%; display: none;}
+    .verifyAlert p {margin:5px 0;}
+    .verifyAlert i {color:black; font-style:normal;}
+    .verifyAlert .clBO {
+      position:absolute;
+      width:30px; height:30px;
+      right:15px; top:15px;
+      background:url(http://static.4shared.com/images/confirm-letterbox-close.png?ver=3949638711) center center no-repeat;
+      cursor:pointer;
+
+    }
+</style>
+
+
+
+
+
+<div class="newHeader smallHeader">
+  <div class="centered">
+
+    <div class="floatLeft logo gaClick" data-element="h1">
+        <a href="http://www.4shared.com/" title="Intercambio de archivos gratis"><img src="http://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Intercambio de archivos gratis" /></a>
+    </div>
+    
+        <div class="floatLeft paddingL15 paddingR5 min"><img src="http://static.4shared.com/images/newUi/hLogo-arrow.png?ver=2321136823" alt="Intercambio de archivos gratis"/></div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/search.js?ver=594542000"></script>
+
+
+
+<input type="hidden" id="sPrefix" value="http://search.4shared.com"/>
+<input type="hidden" class="sLink file" value="/q/CCAD/1"/>
+<input type="hidden" class="sLink video" value="/q/CCQD/1/video"/>
+<input type="hidden" class="sLink music" value="/q/CCQD/1/music"/>
+<input type="hidden" class="sLink photo" value="/q/CCQD/1/photo"/>
+<input type="hidden" class="sLink games" value="/q/CCQD/1/game"/>
+<input type="hidden" class="sLink book" value="/q/CCQD/1/books_office"/>
+<input type="hidden" class="sLink featured_videos" value="/q/CCQD/1/video"/>
+<input type="hidden" id="sBreadcrumbsPhrase" value="Searching"/>
+
+<div class="floatLeft paddingL20 searchbox">
+  <div class="searchform round4">
+    <div class="floatLeft filter roundTL4 roundBL4">
+
+      <a href="#" id="active_filter" class="active_filter roundTL4 gaClick" data-element="h2"><i class="file"><span
+          class="sprite1"></span></i></a>
+
+      <div class="cclick_container cfilter f13 jsSearchFilter">
+        <a href="http://search.4shared.com/q/CAAD/1" class="file gaClick" data-element="h3" title="Archivos" style="border-top:0px aqua none">Archivos</a>
+        <a href="http://search.4shared.com/q/CAQD/1/photo" class="photo gaClick" data-element="h4" title="Fotos">Fotos</a>
+        <a href="http://search.4shared.com/q/CAQD/1/music" class="music gaClick" data-element="h5" title="Música">Música</a>
+        <a href="http://search.4shared.com/q/CAQD/1/books_office" class="book gaClick" data-element="h6" title="Libros">Libros</a>
+        <a href="http://search.4shared.com/q/CAQD/1/video" class="video gaClick" data-element="h7" title="Vídeo">Vídeo</a>
+        <a href="http://search.4shared.com/q/CAQD/1/game" class="games gaClick" data-element="h8" title="Juegos">Juegos</a>
+        
+      </div>
+    </div>
+    <div class="floatLeft search roundTR4 roundBR4 paddingL10 gaClick" data-element="h2.1">
+      <div class="suggest f13 lucida roundBR4" style="display: none;">
+        <div class="ii roundBR4">
+          <ul>
+          </ul>
+          <span id="cl">[x] Cerrar</span>
+        </div>
+      </div>
+      <form action="" class="floatLeft" id="search">
+        <input type="text" id="searchQuery" placeholder="Buscar archivos"/>
+      </form>
+
+
+      <a href="#" id="doSearch" class="floatRight proceed paddingR10 sprite1 gaClick" data-element="h9"></a>
+    </div>
+
+  </div>
+</div>
+    
+
+    <div class="floatRight controls lucida">
+
+
+      
+      <div class="sign item absmid">
+        <div class="textlink gaClick" data-element="h23" onclick="return false;"><i>Inscribirse</i></div> <!-- wtf? -->
+
+        <div class="click_container csign in-tab roundBL4 roundBR4 roundTL4">
+          <div class="i roundBL4 roundBR4 roundTL4">
+            <div class="wr">
+            <form class="loginform" name="signupForm"  action="https://www.4shared.com/web/acc/signup"
+                  method="post" id="signup_head"
+                  onsubmit="return loginFnc.doSignUp('','https://www.4shared.com/', null, false);">
+
+              <input type="hidden" name="fpRedirParam" value="http://www.4shared.com/account/home.jsp">
+
+              <div class="input-light-small round4 marginT5 gaClick" data-element="h23.1">
+                <input type="text" id="regloginfield" name="login" placeholder="Iniciar sesi&#243;n"/>
+              </div>
+
+              <div class="input-light-small round4 marginT5 gaClick" data-element="h23.2">
+                <input type="password" id="regpassfield" name="password" placeholder="Contrase&#241;a"/>
+              </div>
+
+              <div class="input-light-small round4 marginT5 gaClick" data-element="h23.3">
+                <input type="password" id="regpassfield2" name="password2" placeholder="Confirmar contrase&#241;a"/>
+              </div>
+
+
+               <div id="signUpErrorPwd" style="display:none;">
+                <div id="signUpErrorPwdRsn" class="small red paddingT5 alignRight nowrap"></div>
+              </div>
+                <div id="signUpErrorPwd2" style="display:none;" >
+                <div id="signUpErrorPwd2Rsn" class="small red paddingT5 alignRight nowrap"></div>
+              </div>
+                 <div id="signUpErrorLogin" style="display:none;" >
+                <div id="signUpErrorLoginRsn" class="small red paddingT5 alignRight nowrap"></div>
+              </div>
+
+              <div class="capsWarning small red" style="display: none; padding: 3px 0px 0 0 ; text-align:right">Bloqueo de mayuculas encendido</div>
+              <div class="alignRight paddingT5 paddingB5 gaClick" data-element="h24">
+                <input type="submit" value="Inscribirse" class="button-orange round5 f15"/>
+              </div>
+              <div class="clear"></div>
+            </form>
+
+            <script type="text/javascript">
+              if (!$.browser.msie) {
+                $('#regpassfield2').keyup(function(event) {
+                  if (event.keyCode == '13') {
+                    return loginFnc.doSignUp('','http://www.4shared.com/', null, false, null, true);
+                  }
+                });
+              }
+            </script>
+
+            <div class="clear"></div>
+              </div>
+          </div>
+        </div>
+
+      </div>
+
+
+      <div class="hdivider sign absmid"><span></span></div>
+
+      
+
+         
+      <div class="inline login item absmid">
+
+        <div class="llink textlink sprite1 gaClick" data-element="h10" onclick="return false;"><i>Iniciar sesión</i></div>
+
+        <div class="click_container clogin in-tab roundBL4 roundBR4 roundTL4">
+
+          <form class="loginform jsLoginForm" action="https://www.4shared.com/web/login"  method="post" autocomplete="on"  name="loginForm">
+
+          <div class="i roundBL4 roundBR4 roundTL4 headLoginDropdown">
+              <div class="round1 alert jsErrorPlace" id="iloginRejectReason" style="display:none;"></div>
+
+           <div class="wr">
+
+
+
+              <div class="input-light-small round4 marginT5 gaClick" data-element="h10_1">
+                  <input type="text" class="jsInputLogin" name="login" placeholder="Iniciar sesi&#243;n"/>
+              </div>
+              <div class="input-light-small round4 marginT5 gaClick" data-element="h10.2">
+                  <input type="password" class="jsInputPassword" name="password" placeholder="Contrase&#241;a"/>
+              </div>
+
+              <input type="hidden" name="returnTo" value="http%3A%2F%2Fwww.4shared.com%2Faccount%2Fhome.jsp">
+              <input type="hidden" name="remember" value="true">
+
+                <div class="capsWarning small red" style="display: none; padding: 3px 0px 0 0 ; text-align:right">Bloqueo de mayuculas encendido</div>
+
+
+              <table class="lsd-cont" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="f11 paddingT5 paddingR10 gaClick">
+                            <a href="/remindPassword.jsp" class="f11 line gaClick"  data-element="h10.3"
+                               style="color:#676767;">¿Ha olvidado la contraseña?</a>
+                        </td>
+                        <td><div class="gaClick" data-element="h11"><input type="submit" value="Iniciar sesión" class="submit-light round4 marginT5 floatRight"/></div></td>
+                    </tr>
+                </table>
+
+
+              <div class="clear"></div>
+
+
+            <div class="clear"></div>
+
+            <div class="socialLogin">
+              <div class="ii lucida">
+                <div class="socialButtons">
+                  <div class="floatLeft ffshadow langCorrection">Log In with:</div>
+                  <div class="floatRight">
+                    
+                      <a href="http://www.4shared.com/servlet/signin/twitter?fp=http%3A%2F%2Fwww.4shared.com%2Faccount%2Fhome.jsp"
+                         class="tw floatLeft sprite1 gaClick" data-element="h12"></a>
+                    
+                    
+                      <a href="http://www.4shared.com/servlet/signin/facebook?fp=http%3A%2F%2Fwww.4shared.com%2Faccount%2Fhome.jsp"
+                         class="fb floatLeft sprite1 gaClick" data-element="h13"></a>
+                    
+                    
+                      <a href="http://www.4shared.com/servlet/signin/google?fp=http%3A%2F%2Fwww.4shared.com%2Faccount%2Fhome.jsp"
+                         class="go floatLeft sprite1 gaClick" data-element="h14"></a>
+                    
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+         </div>
+         </form>
+        </div>
+
+
+      </div>
+      
+
+
+        <div class="inline hdivider absmid"><span></span></div>
+        <div class="inline settings item absmid">
+
+        <div class="gear piclink sprite1 gaClick" data-element="h15"><i>&nbsp;</i></div>
+
+        <div class="click_container csettings in-tab roundBL4 roundBR4 roundTL4 f13">
+          <div class="i roundBL4 roundBR4 roundTL4">
+            <div class="ls">
+              
+                
+                
+                  <a href="/premium.jsp?ref=nheader" class="pr gaClick" data-element="h17">Premium</a>
+                
+              
+                <a href="#" id="changeLang" class="gaClick" data-element="h18" onclick=" $('.settings .gear').click(); return iNHSelectLanguage()"><span class="floatLeft">Idioma</span><span
+                  class="pr floatRight paddingR5" >es</span></a>
+                <div class="v-div"></div>
+              
+                <a href="/faq.jsp"  class="clear gaClick" data-element="h19">Preguntas más frecuentes</a>
+                <a href="/help/index.jsp" class="gaClick" data-element="h20">Ayuda</a>
+              
+                
+                <a href="#" onclick="reportAbuse2(); $('.settings .gear').click()" class="gaClick" data-element="h22">informar de abuso</a>
+              <!--a href="">Visita</a-->
+              
+
+
+              <div class="clear"></div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+   <div class="clear"></div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  function getFakePass2(el) {
+    var parent = el.parents('div:first')
+    return $('input[type=password]', parent).val()
+  }
+</script>
+
+<script type="text/javascript">
+  var debugInfo = {
+    loc : "Location = " + window.location,
+    usrAgent : "UserAgent = " + navigator.userAgent,
+    usrName  : "Login = null",
+    accountType : "AccType = null",
+    winSize : "Window.W = " + screen.availWidth + "\nWindow.H = " + screen.availHeight,
+    title : "Title = dc449, rev=35791"
+  }
+  var userInfo = debugInfo.loc + "<br>" + debugInfo.usrAgent + "<br>" + debugInfo.usrName + "<br>" + debugInfo.accountType + "<br>" + debugInfo.winSize + "<br>" + debugInfo.title;
+</script>
+
+<script type="text/javascript">
+  $(document).keydown(function(e) {
+    if (!e) e = window.event;
+    var k = e.keyCode;
+    if (e.ctrlKey && e.altKey && k == 73) { // Alt+Ctrl+i
+      AccountFacade.popup({
+        content: userInfo,
+        title: 'Debug Info'
+      })
+    }
+  });
+</script>
+
+<script type="text/javascript">
+
+    
+</script>
+
+        <div class="blueBox d1AdsWrapper">
+          
+          <div class="ads_top">
+            <div class="ads_top_wrapper round5 gaClick" data-element="42">
+              <div class="relative inline">
+                
+                
+                  
+                  
+                    <a href="/premium.jsp?ref=removeads" class="removads"></a><!-- BEGIN TAG - 728x90 - DO NOT MODIFY -->
+<script type="text/javascript">
+   document.write("<iframe src='http://www.adshost1.com\/ads?key=7f1b360d002fbdb54afd5e82bd9f10f3&tz="+(new Date().getTimezoneOffset()/-60)+"' framespacing='0' frameborder='no' scrolling='no' width='728' height='90'><\/iframe>");
+</script>
+<noscript>
+   <iframe src='http://www.adshost1.com\/ads?key=7f1b360d002fbdb54afd5e82bd9f10f3' framespacing='0' frameborder='no' scrolling='no' width='728' height='90'></iframe>
+</noscript>
+<!-- END TAG -->
+                  
+                
+                
+
+
+<a href="/premium.jsp?ref=removeads" class="removads"></a>
+                
+
+
+
+<style type="text/css">
+    a#epomBuyHere,a#epomBuyHere>span{display:block;height:11px;cursor:pointer}
+    a#epomBuyHere{position:absolute;bottom:0;right:0;border:1px solid rgba(255,255,255,.8);background:rgba(255,255,255,.6);z-index:99;overflow:hidden;width:19px;text-decoration:none}
+    a#epomBuyHere>span{background:url(http://static.4shared.com/images/icons/epom.png?ver=1458587585) 4px 1px no-repeat;line-height:9px;font-family:Arial, sans-serif;color:#010101;font-size:10px;padding-left:20px;text-shadow:0 1px 0 #fff}
+    a#epomBuyHere:hover{text-decoration:none}
+    a#epomBuyHere:active,a#epomBuyHere:focus{outline:none}
+</style>
+<!--[if lt IE 9]>
+<style type="text/css">
+a#epomBuyHere {
+background: #fff;
+border: 1px solid #fff;
+}
+</style>
+<![endif]-->
+<a href="https://directads.epom.com/publisher/4shared.do" target="_blank" id="epomBuyHere" rel="nofollow">
+    <span>Buy ads here</span>
+</a>
+<script type="text/javascript" >
+    var apomAds = document.getElementById('epomBuyHere');
+    apomAds.onmouseover = widthChange;
+    apomAds.onmouseout = widthRestore;
+    function doWidthChangeMem(apomAds,startWidth,endWidth,steps,intervals,powr) {
+        var apomAds = document.getElementById('epomBuyHere');
+        if (apomAds.widthChangeMemInt)
+            window.clearInterval(apomAds.widthChangeMemInt);
+        var actStep = 0;
+        apomAds.widthChangeMemInt = window.setInterval(
+                function() {
+                    apomAds.currentWidth = easeInOut(startWidth,endWidth,steps,actStep,powr);
+                    apomAds.style.width = apomAds.currentWidth + "px";
+                    actStep++;
+                    if (actStep > steps) window.clearInterval(apomAds.widthChangeMemInt);
+                }
+                ,intervals)
+    }
+    function easeInOut(minValue,maxValue,totalSteps,actualStep,powr) {
+        var delta = maxValue - minValue;
+        var stepp = minValue+(Math.pow(((1 / totalSteps) * actualStep), powr) * delta);
+        return Math.ceil(stepp)
+    }
+    function widthChange() {
+        if (!this.currentWidth) this.currentWidth = 19;
+        doWidthChangeMem(this,this.currentWidth,89,25,25,1.2);
+    }
+    function widthRestore() {
+        if (!this.currentWidth) return;
+        doWidthChangeMem(this,this.currentWidth,19,25,25,1.2);
+    }
+</script>
+
+              </div>
+            </div>
+          </div>
+          
+        </div>
+
+<div class="centered">
+
+  <div class="d1mainTable paddingT20">
+    <div class="d1leftPanel floatLeft">
+
+      <table cellpadding="0" cellspacing="0" width="100%">
+        <tr><td class="boxtl"></td><td class="boxt"></td><td class="boxtr"></td></tr>
+        <tr>
+          <td class="boxl"></td>
+          <td class="boxc" style="padding:5px">
+
+            <img alt="" src="http://static.4shared.com/images/spacer.gif?ver=1912669180" class="warn" hspace="3" align="left" />
+
+            
+            El enlace del archivo que has solicitado no es válido.
+            
+          </td>
+          <td class="boxr"></td>
+        </tr>
+        <tr><td class="boxbl"></td><td class="boxb"></td><td class="boxbr"></td></tr>
+      </table>
+
+      <div class="clearFix" style="border-bottom:dotted 1px #9E9E9E; border-top:dotted 1px #9E9E9E; padding:15px 0 20px; margin: 20px 0;">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imgDesktopButton floatLeft paddingT10 paddingR10">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/rotatorRegisterClick.js?ver=3138605780"></script>
+
+
+
+<script type="text/javascript">
+    function reportClickAndGo(link, type) {
+        switch (type) {
+            case 'desktop':
+                return rotatorRegisterClick(1, true);;
+                break;
+            case 'tb':
+                return rotatorRegisterClick(1, false);;
+                break;
+            case 'sync':
+                return rotatorRegisterClick(3, true);;
+                break;
+        }
+        window.location = link;
+    }
+
+    function reportClickAndShowTbTip(type) {
+        switch (type) {
+            case 'desktop':
+                return rotatorRegisterClick(1, true);;
+                break;
+            case 'tb':
+                
+                return rotatorRegisterClick(1, false);;
+                break;
+            case 'sync':
+                return rotatorRegisterClick(3, true);;
+                break;
+        }
+    }
+</script>
+
+
+
+
+<a href="/premium/premiumDownloadN3.jsp?ref=fdwld" class="gaClick" data-element="12.3" target="_blank"><img src="http://static.4shared.com/images/fast.gif?ver=3085441818"
+                                                                alt="Descarga rápida"
+                                                                title="Descarga rápida" width="144"
+                                                                height="44"/></a>
+</div>
+
+
+
+
+      </div>
+
+      
+
+      
+        
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+          <div class="linkerrorBottomAds">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+  
+  
+    
+  
+  
+  
+
+
+
+
+
+
+
+
+     
+
+          </div>
+      
+      <br />
+      
+      <div class="small" >
+        ¿Quieres tener tu propia cuenta para compartir archivos?&nbsp;
+        <b class="red"><a href="http://www.4shared.com/web/acc/signup" onclick="return Authenticate.showPopup({returnTo:'http://e.4shared.com/linkerror.jsp'})">Inscribirse</a></b>
+      </div>
+      
+    </div>
+
+    <div class="d1rightPanel floatLeft">
+        
+        <div class="rightPanelMargin">
+        
+        
+            
+            
+                <div class="">
+                    <!-- BEGIN TAG - 300x250 - DO NOT MODIFY -->
+<script type="text/javascript">
+   document.write("<iframe src='http://www.adshost1.com\/ads?key=81533f2f4bb643847aaa437f724a7be8&tz="+(new Date().getTimezoneOffset()/-60)+"' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'><\/iframe>");
+</script>
+<noscript>
+   <iframe src='http://www.adshost1.com\/ads?key=81533f2f4bb643847aaa437f724a7be8' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'></iframe>
+</noscript>
+<!-- END TAG -->
+                </div><br/>
+            
+        
+        </div>
+      <div class="rightPanelMargin">
+          <!-- BEGIN TAG - 300x250 - DO NOT MODIFY -->
+          <script type="text/javascript">
+              document.write("<iframe src='"+(location.protocol=='https:'?location.protocol:'http:')+"//www.adshost1.com\/ads?key=4a8be2182f64f1a86148e177f070c9c3&click=&tz="+(new Date().getTimezoneOffset()/-60)+"&t="+new Date().getTime()+"' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'><\/iframe>");
+          </script>
+          <noscript>
+              <iframe src='http://www.adshost1.com/ads?key=4a8be2182f64f1a86148e177f070c9c3&click=&t=$$TIMESTAMP$$' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'></iframe>
+          </noscript>
+          <!-- END TAG -->
+      </div><br/>
+        
+      <div class="rightPanelMargin">
+        
+      </div>
+    </div>
+    
+
+    <div class="clear"></div>
+  </div>
+
+<br /><br />
+</div>
+</div>
+
+<div id="fstickfooter">
+
+
+<!-- BEGIN TAG - DO NOT MODIFY -->
+<script type="text/javascript">
+    <!--
+    epom_key = "d26904080fbfb1f15d49dc5db6b4a0c6";
+    epom_code_format = "ads-sync.js";
+    epom_click = "";
+    epom_custom_params = {};
+
+    document.write("<" + "script type='text/javascript' src='" + location.protocol + "//www.adshost1.com/js/show_ads.js'" + "><" +"/script>");
+    //-->
+</script>
+<!-- END TAG -->
+
+
+
+
+
+<div id="footer">
+
+<div class="footer" style="padding:10px">
+    
+
+
+
+
+
+
+<script type="text/javascript">
+  
+
+  function includeSearchOnSubmit(form){
+    if( form.searchExtention.options[form.searchExtention.selectedIndex].value=='' ){
+      form.searchmode.value=2;
+      	var searchTerm = form.searchName.value;
+    	if (searchTerm != '' && searchTerm != null) {
+    	  top.location.href = '/q/1/' + Utils.getSearchName(searchTerm);
+    	}
+    	else {
+     	  top.location.href = '/q/1';
+    	}
+		return false;
+    }else{
+      form.searchmode.value=3;
+      form.method = "post";
+    }
+    return true;
+  }
+
+</script>
+
+<form name="includeSearchForm" action="http://search.4shared.com/search.html" method="post" onsubmit="return includeSearchOnSubmit(this)">
+  <input type="text" name='searchName' style="width:250px;padding:1px 0" class="ajax-suggestion field gaClick" data-element="fs1"  autocomplete="off"/>&nbsp;
+  <select class="field absmid gaClick" data-element="fs2" name='searchExtention'>
+      <option value="" selected="selected">Cualquiera</option>
+      <option value="category:1">Música</option>
+      <option value="category:2">Vídeo</option>
+      <option value="category:3">Fotos</option>
+      <option value="category:5">Libros</option>
+  </select>&nbsp;
+  <input type="submit" name='submitButton' value="B&#250;squeda" class="button gaClick" data-element="fs3" />
+  <input type='hidden' name='searchmode' value="2" />
+</form>
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/ajax-suggestions.css?ver=3310423756"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript">ajaxSuggestions.searchBase="http://dc446.4shared.com"</script>
+<div id="search-result-suggestions">
+  <div id="search-results">&nbsp;</div>
+</div>
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="footer" style="border-top:solid 1px #F5F4F1">
+    <div class="centered">
+    <table cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td class="fcol first">
+                <div>Enlaces de la página:</div>
+                <a href="http://www.4shared.com/">Inicio</a><br />
+                <a href="http://www.4shared.com/premium.jsp?ref=footer">Premium</a><br />
+                <a href="http://www.4shared.com/links.jsp">Enlácenos</a><br />
+                <a href="http://search.4shared.com/search.html">Búsqueda</a><br />
+            </td>
+            <td class="fcol">
+                <div>Ayuda</div>
+                <a href="http://www.4shared.com/faq.jsp">Preguntas más frecuentes</a><br />
+                <a href="http://www.4shared.com/help/index.jsp">Ayuda</a><br />
+                <a href="http://www.4shared.com/tutorial/">Visita rápida</a><br />
+                <a href="http://www.4shared.com/features.jsp">Características</a><br />
+                <a href="http://www.4shared.com/contact.jsp">Contacto</a>
+            </td>
+            <td class="fcol">
+                <div>Sobre</div>
+                
+                <a href="http://www.4shared.com/aboutus.jsp">Compañía</a><br />
+                <a href="http://www.4shared.com/advertise/">Publicidad</a><br />
+                
+                <a href="http://www.4shared.com/resellers.jsp">Distribuidores</a><br />
+                <a href="http://www.4shared.com/paymentContacts.jsp">Contactos de pagos</a><br />
+                <a href="http://www.4shared.com/copyright-center.jsp">Copyright</a>
+            </td>
+            <td class="fcol">
+                <div>Normativa</div>
+                <a href="http://www.4shared.com/terms.jsp">Términos de uso</a><br />
+                <a href="http://www.4shared.com/privacy.jsp">Privacidad</a><br />
+                <a href="http://www.4shared.com/dmca.jsp">Violación de copyright</a><br />
+                <a href="http://www.4shared.com/security.jsp">Seguridad</a><br />
+                <a href="http://www.4shared.com/musicIdentification.jsp">Music Identification</a><br />
+                <a href="http://www.4shared.com/sla.jsp" title="Acuerdo de nivel de servicio">Acuerdo de nivel de servicio</a><br />
+                
+            </td>
+            <td class="fcol">
+                <div>Compartir</div>
+                <a href="http://www.4shared.com/4shared-features.jsp#filesh">Compartir archivos</a><br />
+                <a href="http://www.4shared.com/4shared-features.jsp#musicsh">Compartir música</a><br />
+                <a href="http://www.4shared.com/4shared-features.jsp#photosh">Compartir fotos</a><br />
+                <a href="http://www.4shared.com/4shared-features.jsp#videosh">Compartir vídeos</a><br />
+                <a href="http://www.4shared.com/4shared-features.jsp#docsh">Compartir documentos</a>
+            </td>
+            <td class="fcol">
+                <div>Multimedia</div>
+                <a href="http://www.4shared.com/press_room/">Sala de prensa</a><br />
+                <a href="http://blog.4shared.com/" target="_blank">Blog</a><br />
+                <a href="http://twitter.com/4shared" target="_blank"  title="Sígannos en Twitter" rel="nofollow" style="white-space:nowrap;"><img src="http://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Twitter" class="tw"> Twitter</a><br />
+                <a href="http://www.facebook.com/official.4shared" target="_blank"  title="Sígannos en Facebook" rel="nofollow" style="white-space:nowrap;"><img src="http://static.4shared.com/images/spacer.gif?ver=1912669180" alt="Twitter" class="fb"> Facebook</a><br />
+            </td>
+            <td class="fcol last">
+                <div>Herramientas</div>
+                    
+                    <a href="http://www.4shared.com/mobile.jsp">4shared Móvil</a><br />
+                    <a href="http://www.4shared.com/desktop/">4shared Desktop</a><br />
+                    <a href="http://www.4shared.com/developer/">Desarrollador</a><br />
+
+
+            </td>
+        </tr>
+    </table>
+    </div>
+    
+
+
+
+
+
+
+</div>
+
+
+
+<div class="copy">
+   <div class="centered">
+        <div class="floatLeft alignRight">
+            Copyright <span title='dc449, rev=35791'>&copy;</span> 2005-2013 4shared.com
+        </div>
+        <div class="floatRight truste" id="0b69e881-c8aa-478c-a8ce-4f1fc3d88e75">
+            
+            <a class="" href="//privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=b1a9e118-8fff-41a0-b6a4-5cb20219e036" title="TRUSTe online privacy certification" target="_blank" rel="nofollow"></a>
+        </div>
+        <div class="clear"></div>
+   </div>
+</div>
+
+</div>
+<!-- www.currDcID=449 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4135125;
+var sc_invisible=1;
+var sc_partition=51;
+var sc_click_stat=1;
+var sc_security="e8ecc2ac";
+</script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//www.statcounter.com/counter/counter.js"></script>
+
+
+  <noscript>
+    <div class="statcounter">
+      <a title="free hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank" rel="nofollow">
+        <img class="statcounter" src="//c.statcounter.com/4135125/0/e8ecc2ac/1/" alt="free hit counter" >
+      </a>
+    </div>
+  </noscript>
+<script type="text/javascript">
+ document.write("<img src='//www.jscount.com/a/4/28b1a41b/z?ref="+
+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
+</script>
+
+<!-- End of StatCounter Code -->
+
+<!--LiveInternet counter-->
+<script type="text/javascript">
+<!--
+document.write("<img src='//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt='' style='display:none'>")//-->
+</script>
+<!--/LiveInternet-->
+
+<!-- Start Quantcast tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+
+
+<script type="text/javascript">_qacct="p-23Fqia_-MkKko";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-23Fqia_-MkKko" target="_blank" rel="nofollow">
+  <img src="//secure.quantserve.com/pixel/p-23Fqia_-MkKko.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast">
+</a>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+<!-- Start of google-analytics -->
+
+
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-306602-1']);
+_gaq.push(['_setCustomVar', 1, 'User Type', 'Guest', 2]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setSampleRate', '10']);
+
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+
+</script>
+
+<!-- End of google-analytics -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN TAG - DO NOT MODIFY -->
+<script type="text/javascript">
+   document.write("<"+"script type='text/javascript' src='http://www.adshost1.com/ads-sync.js?key=f11d7770d28f06c628386d47cb6eb053&tz="+(new Date().getTimezoneOffset()/-60)+"'><"+"/script>");
+</script>
+<!-- END TAG -->
+
+
+
+
+
+  
+  
+    
+  
+  
+  
+
+
+</div>
+</div>
+
+</body> <!--2046 Б-->
+</html>
+<!--
+cause=308DwnHlpNoSign
+
+cause=null
+ip=190.148.95.213
+
+-->
+
+
+
+
+
